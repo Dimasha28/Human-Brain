@@ -56,7 +56,7 @@ This project combines creativity and education to make complex biology topics si
 ### Steps
 1. Clone or download the project:
    ```bash
-   git clone https://github.com/yourusername/human-brain-website.git
+   git clone https://github.com/Dimasha28/human-brain-website.git
    cd human-brain-website
 
 ![Screenshot 2025-05-20 092333](https://github.com/user-attachments/assets/f3bac63a-b831-47a3-874c-bfac8468ef36)
